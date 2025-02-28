@@ -9,5 +9,6 @@
   <li>https://boisterous-douhua-ca0f89.netlify.app/</li>
   <li>https://modernhisto.github.io/tic-tac-toe/</li>
   <li>https://modernhisto.github.io/ProFman/</li>
+  <li>https://matrix-chat-app.netlify.app/</li>
 </ul>
 </div>
